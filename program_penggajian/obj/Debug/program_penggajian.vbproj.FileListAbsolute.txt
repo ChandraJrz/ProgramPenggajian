@@ -1,0 +1,14 @@
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\bin\Debug\program_penggajian.exe.config
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\bin\Debug\program_penggajian.exe
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\bin\Debug\program_penggajian.pdb
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\bin\Debug\program_penggajian.xml
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\obj\Debug\program_penggajian.vbprojAssemblyReference.cache
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\obj\Debug\program_penggajian.Form1.resources
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\obj\Debug\program_penggajian.Resources.resources
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\obj\Debug\program_penggajian.vbproj.GenerateResource.cache
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\obj\Debug\program_penggajian.vbproj.CoreCompileInputs.cache
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\obj\Debug\program_penggajian.exe
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\obj\Debug\program_penggajian.xml
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\obj\Debug\program_penggajian.pdb
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\obj\Debug\program_penggajian.Form2.resources
+C:\Users\Chandra\Google Drive\Kuliah\Mata Kuliah\Semester 3\Pemrograman Visual\Pertemuan 07\program_penggajian\obj\Debug\program_penggajian.Form3.resources
